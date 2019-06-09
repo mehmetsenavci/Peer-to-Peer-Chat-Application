@@ -8,6 +8,6 @@
 
 ->P2Pserver file sometimes can start printing infinitely many empty lines in the terminal and in the ChatLog.txt file if the P2Pclient is terminated before the server. To prevent any system crashes be careful. If server starts that action terminate the server as soon as possible.
 
--> Used library are son, time, date time and socket.
+-> Used libraries are son, time, date time and socket.
 
 
